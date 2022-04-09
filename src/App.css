@@ -1,7 +1,9 @@
-.App {
-  text-align: center;
+ .App {
+  justify-items: center;
+  background-color: rgb(201, 240, 221);
+  margin-top: 0px;
 }
-
+/*
 .App-logo {
   height: 40vmin;
   pointer-events: none;
@@ -35,4 +37,17 @@
   to {
     transform: rotate(360deg);
   }
+} */
+
+
+.paddingT{
+  padding: 20px;
+}
+
+.dimensions {
+  height: 70px;
+  width: 98%;
+  background-color: black;
+  margin: auto;
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
